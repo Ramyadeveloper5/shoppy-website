@@ -1,0 +1,10 @@
+.bread-crums{
+    display: flex;
+    align-items: center;
+    gap:8px;
+    font-size: 16px;
+    font-weight: 500;
+    color:#5e5e5e;
+    margin: 50px 120px;
+    text-transform: capitalize;
+}
