@@ -62,32 +62,40 @@ To build a comprehensive and dynamic e-commerce website, we will utilize a moder
 # 3. TOOLS USED
 
 •	Visual Studio Code
+
 •	Postman
 
 # 4. API ENDPOINTS
 
 •	User Registration
+
 •	User Login
+
 •	User Login Token Verify
+
 •	User logout
+
 •	Create Product
+
 •	View all the Product
+
 •	Delete the Product
+
 •	New Collection Product
+
 •	Popular Products
+
 •	Related Products in each Category
+
 •	Image Upload
 
 # 5. KEY FEATURES
 
-Category-Based Navigation:
-•	Users can browse through well-organized categories tailored for Kids, Men, and Women, ensuring they can quickly find products of interest.
+**Category-Based Navigation:** Users can browse through well-organized categories tailored for Kids, Men, and Women, ensuring they can quickly find products of interest.
 
-Product Details and Viewing:
-•	Each product will have a dedicated page providing detailed information, enhancing the decision-making process for users.
+**Product Details and Viewing:** Each product will have a dedicated page providing detailed information, enhancing the decision-making process for users.
 
-Seamless Cart Integration:
-•	Users can add products to their cart with a single click, streamlining the shopping experience from product selection to checkout.
+**Seamless Cart Integration: ** Users can add products to their cart with a single click, streamlining the shopping experience from product selection to checkout.
 
 # 6. BENEFITS:
 
