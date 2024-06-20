@@ -48,10 +48,15 @@ To build a comprehensive and dynamic e-commerce website, we will utilize a moder
 # 2. TECHNOLOGIES USED
 
 •	Node.js
+
 •	Express.js
+
 •	MongoDB 
+
 •	bcrypt for password hashing
+
 •	JSON Web Tokens (JWT) for authentication
+
 •	API Testing – Postman
 
 # 3. TOOLS USED
