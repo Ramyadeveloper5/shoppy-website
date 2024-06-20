@@ -95,7 +95,7 @@ To build a comprehensive and dynamic e-commerce website, we will utilize a moder
 
 **Product Details and Viewing:** Each product will have a dedicated page providing detailed information, enhancing the decision-making process for users.
 
-**Seamless Cart Integration: ** Users can add products to their cart with a single click, streamlining the shopping experience from product selection to checkout.
+**Seamless Cart Integration:** Users can add products to their cart with a single click, streamlining the shopping experience from product selection to checkout.
 
 # 6. BENEFITS:
 
