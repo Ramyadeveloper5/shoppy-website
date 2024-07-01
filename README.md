@@ -1,4 +1,4 @@
-# Shop Website by using MERN Technology 
+# Shop Website by using MERN (Reactjs, Expressjs, Nodejs, Mongodb) 
 
 •	To develop a robust e-commerce platform leveraging modern technologies like React.js for the frontend, Node.js with Express.js for the backend, and MongoDB for the database, we aim to provide a seamless shopping experience across diverse categories. Our website will cater to three primary product segments: Kids, Men, and Women.
 
